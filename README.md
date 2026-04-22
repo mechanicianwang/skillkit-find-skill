@@ -24,20 +24,20 @@ Use this skill when you need to **find new skills** from the ecosystem — not f
 
 ```bash
 # Project-local
-npx add-skill skillkit/skillkit-find-skill
+npx add-skill mechanicianwang/skillkit-find-skill
 
 # User-wide
-npx add-skill skillkit/skillkit-find-skill -g
+npx add-skill mechanicianwang/skillkit-find-skill -g
 ```
 
 ### Option B: Manual install
 
 ```bash
 # Cursor
-git clone https://github.com/nicholascpark/skillkit-find-skill.git ~/.cursor/skills/skillkit-find-skill
+git clone https://github.com/mechanicianwang/skillkit-find-skill.git ~/.cursor/skills/skillkit-find-skill
 
 # Claude Code
-git clone https://github.com/nicholascpark/skillkit-find-skill.git ~/.claude/skills/skillkit-find-skill
+git clone https://github.com/mechanicianwang/skillkit-find-skill.git ~/.claude/skills/skillkit-find-skill
 ```
 
 ## Repository layout
