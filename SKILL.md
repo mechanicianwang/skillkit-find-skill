@@ -34,7 +34,7 @@ GET https://skillkit.tech/api/v1/skills/search?q={keywords}&limit=10
 | Param   | Type   | Default | Description                          |
 |---------|--------|---------|--------------------------------------|
 | `q`     | string | —       | Search keywords (max 200 chars)      |
-| `limit` | int    | 30      | Number of results (max 100)          |
+| `limit` | int    | 30      | Number of results (max 60)           |
 | `offset`| int    | 0       | Pagination offset                    |
 
 ### Response
